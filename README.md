@@ -27,6 +27,12 @@ To become Africa's leading export and logistics hub, connecting local producers 
 
 ---
 
+## POSH9JA Group of Companies ecosystem
+
+POSH9JA EXPORT & LOGISTICS is an approved ecosystem partner alongside OJA within the POSH9JA Group of Companies. LagosGo is the group's mobility product. Partner integration is being coordinated while each service retains its own operational systems and customer workflows. See [ECOSYSTEM_PARTNERSHIP.md](./ECOSYSTEM_PARTNERSHIP.md) for integration rules and rollout gates.
+
+---
+
 ## 🚀 Services
 
 ### 📦 Export Solutions
